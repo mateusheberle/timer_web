@@ -23,7 +23,6 @@
 .pub/
 
 # Web related
-lib/generated_plugin_registrant.dart
 
 # Symbolication related
 app.*.symbols
@@ -38,7 +37,7 @@ app.*.map.json
 .packages
 
 # Diretório de build
-/build/
+# /build/
 
 # Arquivos de configuração pessoais
 .vscode/
