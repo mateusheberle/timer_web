@@ -37,7 +37,7 @@ app.*.map.json
 .packages
 
 # Diretório de build
-# /build/
+/build/
 
 # Arquivos de configuração pessoais
 .vscode/
